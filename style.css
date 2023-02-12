@@ -1,0 +1,522 @@
+
+.firstsection{
+ background-color: #fae4fa;
+ padding: 40px;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 52px;
+    left: 65%;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+.nav ul li{
+    margin: 10px;
+    
+}
+.first{
+    position: relative;
+    left: 10%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+}
+.second{
+    margin-top: 140px;
+    text-align: center;
+}
+.second h1{
+   font-weight: bold;
+   font-size: 37px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.second p{
+    font-size: 11px;
+    color: rgb(128, 116, 116);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.second button{
+    border: none;
+    padding: 15px 18px;
+    background-color: #fd8d05;
+    border-radius: 5px;
+    margin-top: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.third{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    margin-top:40px;
+}
+
+.third img{
+    width: 100%;
+    height: 100%;
+}
+
+.firstimg{
+    width: 45%;
+    height: 45%;
+    margin: 1.5%;
+}
+.firstimg img{
+    width: 100%;
+    height: 100%;
+}
+
+.secondimg{
+    width: 45%;
+    height: 45%;
+    margin: 1.5%;
+}
+.secondimg img{
+    width: 100%;
+    height: 100%;
+}
+
+.thirdimg{
+    width: 45%;
+    height: 45%;
+    margin: 1.5%;
+}
+.thirdimg img{
+    width: 100%;
+    height: 100%;
+}
+
+.fourimg{
+    width: 45%;
+    height: 45%;
+    margin: 1.5%;
+}
+.fourimg img{
+    width: 100%;
+    height: 100%;
+}
+
+.team{
+    width:40%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15%;
+    margin-top: 60px;
+}
+.features{
+    width: 40%;
+    margin-top:200px;
+    margin-left: 2%;
+}
+
+.secondsection{
+    display: flex;
+    flex-wrap: wrap;
+}
+.features #Quick{
+    font-size: 30px;
+    color: rgb(112, 107, 107);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    color: black;
+    font-weight: 800;
+}
+strong{
+    color: #fd8d05;
+}
+.features #Quick2{
+    font-size: 12px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+}
+
+.features button{
+    border: none;
+    padding: 15px 18px;
+    background-color: #fd8d05;
+    border-radius: 5px;
+    margin-top: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+
+.enjoy .love{
+    width: 90%;
+    height: 90%;
+}
+.love h1{
+    border-left: 4px solid  #fd8d05;
+    padding-left:3%;
+    color: black;
+    font-weight:900;
+    font-family:'Segoe UI';
+
+}
+.love p{
+    font-size: 12px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+}
+
+.mobile{
+    margin-top: 15px;
+    width: 85%;
+    height: 85%;
+    padding: 3%;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: white;
+    
+    box-shadow: -3px -3px 15px rgb(245, 244, 244),3px 3px 15px  rgb(245, 244, 244) ;
+}
+.mobile p{
+    font-size: 11px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+}
+
+.mobile h1{
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 13px;
+}
+
+.drag{
+    margin-top: 15px;
+    width: 85%;
+    height: 85%;
+    padding: 3%;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: white;
+    
+    box-shadow: -3px -3px 15px rgb(245, 244, 244),3px 3px 15px  rgb(245, 244, 244) ;
+}
+.drag p{
+    font-size: 11px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+}
+
+.drag h1{
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+
+.modern{
+    margin-top: 15px;
+    width: 85%;
+    height: 85%;
+    padding: 3%;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: white;
+    
+    box-shadow: -3px -3px 15px rgb(245, 244, 244),3px 3px 15px  rgb(245, 244, 244) ;
+}
+.modern p{
+    font-size: 11px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+}
+
+.modern h1{
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+
+
+.Super{
+    margin-top: 15px;
+    width: 85%;
+    height: 85%;
+    padding: 3%;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color: white;
+    
+    box-shadow: -3px -3px 15px rgb(245, 244, 244),3px 3px 15px  rgb(245, 244, 244) ;
+}
+.Super p{
+    font-size: 11px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+}
+
+.Super h1{
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+
+.enjoy{
+    width: 33%;
+    height: 33%;
+    margin-top: 100px;
+    margin-left:12%;
+
+}
+
+.architect{
+    width: 38%;
+    height: 38%;
+    margin-top: 100px;
+    position: relative;
+}
+
+.architect img{
+    margin-left: 12%;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.thirdsection{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.experi{
+    width: 30%;
+    padding:1.5% 8% 1.5% 7%;
+    background-color: #F99417;
+    color: white;
+    position:relative;
+    bottom: 6vw;
+    border-radius: 8px;
+}
+
+.experi span{
+    font-size: 3vw;
+    color: white;
+    font-weight: 700;
+    font-family: 'Segoe UI';
+}
+
+.experi p{
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.facts{
+    margin-left: 12%;
+}
+
+.facts h1{
+    font-size: 25px;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.facts p{
+    font-size: 11px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+
+}
+
+.award{
+    border:1px solid  #F99417;
+    width: 12%;
+    height: 12%;
+    text-align: center;
+    padding: 1% 0 1% 0;
+    border-radius: 8px;
+    margin: 3%;
+}
+.award img{
+    width: 18%;
+    height: 18%;
+}
+.award h1{
+    font-size: 1.8vw;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.award span{
+    font-size: 1vw;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+    font-weight: 700;
+}
+
+.projects{
+    border:1px solid  #F99417;
+    width: 12%;
+    height: 12%;
+    text-align: center;
+    padding: 1% 0 1% 0;
+    border-radius: 8px;
+    margin: 3%;
+}
+.projects img{
+    width: 18%;
+    height: 18%;
+}
+.projects h1{
+    font-size: 1.8vw;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.projects span{
+    font-size: 1vw;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+    font-weight: 700;
+}
+
+.customers{
+    border:1px solid  #F99417;
+    width: 12%;
+    height: 12%;
+    text-align: center;
+    padding: 1% 0 1% 0;
+    border-radius: 8px;
+    margin: 3%;
+}
+.customers img{
+    width: 18%;
+    height: 18%;
+}
+.customers h1{
+    font-size: 1.8vw;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.customers span{
+    font-size: 1vw;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+    font-weight: 700;
+}
+
+.email{
+    border:1px solid  #F99417;
+    width: 12%;
+    height: 12%;
+    text-align: center;
+    padding: 1% 0 1% 0;
+    border-radius: 8px;
+    margin: 3%;
+}
+.email img{
+    width: 18%;
+    height: 18%;
+}
+.email h1{
+    font-size: 1.8vw;
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.email span{
+    font-size: 1vw;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+    font-weight: 700;
+}
+
+.foursection{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:30px;
+    justify-content: center;
+}
+.Sponspors{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.Sponspors h1{
+    font-size: 25px;
+    font-weight: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Sponspors p{
+    font-size: 11px;
+    color: rgb(112, 107, 107);
+    font-family:system-ui;
+
+}
+
+.spotify{
+    width:9%;
+    height: 9%;
+    margin: 2% 4% 2% 4%;
+}
+
+.spotify img{
+    width:100%;
+    filter: grayscale(100%);
+}
+
+.amazon{
+    width:9%;
+    height: 9%;
+    margin: 2% 4% 2% 4%;
+}
+.amazon img{
+    width:100%;
+    filter: grayscale(100%);
+}
+
+.google{
+    margin: 2% 4% 2% 4%;
+    width:9%;
+    height: 9%;
+}
+.google img{
+    width:100%;
+    filter: grayscale(100%);
+}
+
+.telerama{
+    margin: 2% 4% 2% 4%;
+    width:9%;
+    height: 9%;
+}
+.telerama img{
+    width:100%;
+    filter: grayscale(100%);
+}
+
+.figma{
+    margin: 2% 4% 2% 4%;
+    width:9%;
+    height: 9%;
+}
+.figma img{
+    width:100%;
+    filter: grayscale(100%);
+}
+
+.fivesection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.done{
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    margin-top: 60px;
+    padding: 0.8%;
+    background-color: #fce1fc;
+}
